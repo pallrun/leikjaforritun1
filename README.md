@@ -9,6 +9,7 @@
  
  [PlayerController](https://github.com/pallrun/leikjaforritun1/blob/main/PlayerController.cs)
  
+ [spurningar](https://github.com/pallrun/leikjaforritun1/blob/main/spurningar-verkefni1)
  
  -----------------------------------
  ### verkefni 2
