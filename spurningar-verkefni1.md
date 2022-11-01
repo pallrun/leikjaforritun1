@@ -12,18 +12,20 @@
 
 ### 4.	Hvað er e. game object og hvernig tengist það e. components í e. Inspector?
 
-
+game objects eru main hlutirnir sem þu notar fyrir prop eða t.d. leikmenn
 
 ### 5.	Hvað er líkt og ólíkt með game object og e. prefab?
 
+prefab er afrit af objects
+
 ### 6.	Útskýrðu stuttlega hlutverk eftirfarandi glugga/svæði í Unity:
 
-i.	Scene view
+i.	Scene view: raw raunvörulaiki af leiknum þu notar hann helst til að færa til og edita heimin
 
-ii.	Game view
+ii.	Game view: þetta er það sem þu sérð þegar þu keyrir leikinn
 
-iii.	Project
+iii.	Project: heimurinn sjalfur
 
-iv.	Hierarchy
+iv.	Hierarchy: assets eru sinileg her og flokkuð
 
-v.	Inspector
+v.	Inspector: þetta er allur bakendi fyrir objects og allt sem er i t.d. hierarchy og assets.
