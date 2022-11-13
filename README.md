@@ -16,8 +16,8 @@
  
  [video](https://youtu.be/J7FUL7MPtVw)
  
- [FollowPlayer](https://github.com/pallrun/leikjaforritun1/blob/main/FollowPlayer.cs)
+ [prefabs](https://github.com/pallrun/leikjaforritun1/prefabs/)
  
- [PlayerController](https://github.com/pallrun/leikjaforritun1/blob/main/PlayerController.cs)
+ [scripts](https://github.com/pallrun/leikjaforritun1/scripts/)
  
- [spurningar](https://github.com/pallrun/leikjaforritun1/blob/main/spurningar-verkefni1)
+ [scenes](https://github.com/pallrun/leikjaforritun1/scenes/)
