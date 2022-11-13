@@ -16,8 +16,8 @@
  
  [video](https://youtu.be/J7FUL7MPtVw)
  
- [prefabs](https://github.com/pallrun/leikjaforritun1/prefabs/)
+ [prefabs](https://github.com/pallrun/leikjaforritun1/tree/main/prefabs)
  
- [scripts](https://github.com/pallrun/leikjaforritun1/scripts/)
+ [scripts](https://github.com/pallrun/leikjaforritun1/tree/main/Scripts)
  
- [scenes](https://github.com/pallrun/leikjaforritun1/scenes/)
+ [scenes](https://github.com/pallrun/leikjaforritun1/tree/main/scenes)
