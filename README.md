@@ -21,3 +21,14 @@
  [scripts](https://github.com/pallrun/leikjaforritun1/tree/main/Scripts)
  
  [scenes](https://github.com/pallrun/leikjaforritun1/tree/main/scenes)
+
+------------------------------------
+### verkefni 3
+
+[video]()
+
+[scripts](https://github.com/pallrun/leikjaforritun1/tree/main/Verkefni3/Scripts)
+
+[webgl]()
+
+[assets]()
