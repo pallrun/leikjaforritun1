@@ -25,10 +25,10 @@
 ------------------------------------
 ### verkefni 3
 
-[video]()
+[video](https://youtu.be/s4olxkYfx5U)
 
 [scripts](https://github.com/pallrun/leikjaforritun1/tree/main/Verkefni3/Scripts)
 
-[webgl]()
+þu sagðir að eg mætti sleppa build utaf vesenni með tolvuna mina.
 
-[assets]()
+[lysing a leiknum]()
