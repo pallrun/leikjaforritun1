@@ -20,7 +20,7 @@
  
  [scripts](https://github.com/pallrun/leikjaforritun1/tree/main/Scripts)
  
- [scenes](https://github.com/pallrun/leikjaforritun1/tree/main/scenes)
+ [scenes](https://github.com/pallrun/leikjaforritun1/tree/main/Scenes)
 
 ------------------------------------
 ### verkefni 3
