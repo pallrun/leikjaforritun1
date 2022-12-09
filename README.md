@@ -32,3 +32,9 @@
 þu sagðir að eg mætti sleppa build utaf vesenni með tolvuna mina.
 
 [lysing a leiknum](https://github.com/pallrun/leikjaforritun1/blob/main/verkefni3.md)
+
+------------------------------------
+### verkefni 3
+
+[video](https://youtu.be/s4olxkYfx5U)
+
