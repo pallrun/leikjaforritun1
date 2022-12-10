@@ -27,15 +27,4 @@ public class bullet : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other){
         Destroy(gameObject); // eyði hnif ef klessir a vegg
     }
-
-    /* VIRKAR EKKI ENGA HUGMYND AFH
-    IEnumerator Hit(Collider2D other){
-        sprite = other.gameObject.GetComponent<SpriteRenderer>();
-        sprite.color = new Color (1, 0, 0, 1); 
-        yield return new WaitForSeconds(0.3f);
-        Debug.Log("here");
-        Instantiate(gem, other.transform.position, other.transform.rotation);
-        //other.gameObject.SetActive(false);
-        Destroy(sprite);
-    }*/
 }
