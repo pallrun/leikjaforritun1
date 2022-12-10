@@ -40,6 +40,8 @@
 
 það er enþá vesenn með tölvuna mína eitthvað öryggis stillingar. og næ ekki að builda þú varst búinn að sjá það í verkefni 3 hjá mér.
 
-svo ég skila video og scriptum. ég verð allavega að ná með þvi.
+svo ég skila video og scriptum. ég verð allavega að ná að utskrifast með þvi ;).
 
 ég er að skila á seinustu stundu veggna þess að ég gat heldur ekki fengið ruby´s importið í tölvuna og þurfti að leita af því annarstaðar en á assetstore
+
+[scripts](https://github.com/pallrun/leikjaforritun1/tree/main/scriptts)
