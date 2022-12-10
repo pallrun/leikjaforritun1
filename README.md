@@ -36,5 +36,10 @@
 ------------------------------------
 ### verkefni 3
 
-[video](https://youtu.be/s4olxkYfx5U)
+[video](https://youtu.be/VQeH7r9RbIM)
 
+það er enþá vesenn með tölvuna mína eitthvað öryggis stillingar. og næ ekki að builda þú varst búinn að sjá það í verkefni 3 hjá mér.
+
+svo ég skila video og scriptum. ég verð allavega að ná með þvi.
+
+ég er að skila á seinustu stundu veggna þess að ég gat heldur ekki fengið ruby´s importið í tölvuna og þurfti að leita af því annarstaðar en á assetstore
