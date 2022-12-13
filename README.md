@@ -34,7 +34,7 @@
 [lysing a leiknum](https://github.com/pallrun/leikjaforritun1/blob/main/verkefni3.md)
 
 ------------------------------------
-### verkefni 3
+### verkefni 5
 
 [video](https://youtu.be/VQeH7r9RbIM)
 
